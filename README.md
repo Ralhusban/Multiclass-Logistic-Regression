@@ -4,6 +4,8 @@ This is an expansion of my older post dealing with the 2-class Logistic Regressi
 
 This example will also teach you how to plot the cost function, which is useful to visualize if your model is learning correctly or not.
 
-As the previous example, I heavily use Numpy arrays to mimimize the use of for-loops.
+As in the previous example, I heavily use Numpy arrays to mimimize the use of for-loops.
+
+You are free to re-use my code however, please provide a reference to it if you're publishing it anywhere else.
 
 Happy learning.
