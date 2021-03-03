@@ -8,4 +8,5 @@ As in the previous example, I heavily use Numpy arrays to mimimize the use of fo
 
 You are free to re-use my code however, please provide a reference to it if you're publishing it anywhere else.
 
-Happy learning.
+If any parts of the code is unclear, please let me know and I'll do my best to answer your query.
+Happy learning!
